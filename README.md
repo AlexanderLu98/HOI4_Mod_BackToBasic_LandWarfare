@@ -8,8 +8,8 @@
 - [ ] Army
 - [ ] Potenstially remove Airforce
 - [X] Test removeal of countries
-- [ ] AI
-- [ ] 
+- [X] AI
+- [ ] Bug Fixes 
 - [ ] 
 - [ ] 
 - [ ] 
